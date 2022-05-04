@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-//Tove Lennartsson tole4912
-
 public class DogRegisterProgram {
 
     private Communicator communicator;
