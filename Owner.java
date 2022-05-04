@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-//Tove Lennartsson tole4912
-
 public class Owner {
 
     private static final int INDEX_SHIFT = 1;
