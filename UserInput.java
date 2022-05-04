@@ -2,8 +2,6 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//Tove Lennartsson tole4912
-
 public class UserInput {
 
     private static ArrayList<InputStream> listOfInputStreams = new ArrayList<>();
