@@ -2,8 +2,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-//Tove Lennartsson tole4912
-
 public class Register {
 
     private static final int NO_INDEX = -1;
