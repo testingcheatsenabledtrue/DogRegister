@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-//Tove Lennartsson tole4912
-
 public class CommandManager {
 
     private ArrayList<Command> commandList;
