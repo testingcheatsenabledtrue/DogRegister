@@ -1,5 +1,3 @@
-//Tove Lennartsson tole4912
-
 public class Dog {
 
     private static final double DACHSHUND_TAIL_LENGTH = 3.7;
