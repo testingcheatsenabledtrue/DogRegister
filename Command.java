@@ -1,5 +1,3 @@
-//Tove Lennartsson tole4912
-
 public class Command {
 
     private String command;
